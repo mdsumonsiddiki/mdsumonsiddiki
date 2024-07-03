@@ -4,11 +4,11 @@
 
 <p align="left">
 <br/>
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=mdsumonsiddiki&label=Profile%20views&color=0e75b6&style=flat" alt="mdsumonsiddiki" /> </p>
 <a href="https://github.com/mdsumonsiddiki"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 </p>
+<a href="https://github.com/mdsumonsiddiki"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=mdsumonsiddiki&style=for-the-badge&color=blue"></a>
 <p align="left"> <a href="https://github.com/mdsumonsiddiki"> 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=MD+SUMON+SIDDIKI;Web+Developer+%7C+MERN+;React+%7C+JavaScript+%7C+Tailwind+CSS+%7C+Node.js+%7C+Express.js+%7C+MongoDB; ; " alt="Typing SVG" />
 </a></p>
