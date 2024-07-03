@@ -4,7 +4,7 @@
 
 <p align="left">
   <br/>
- <a href="https://github.com/walidbosso"> 
+ <a href="https://github.com/mdsumonsiddiki"> 
  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 </p>
@@ -21,5 +21,8 @@
 <img align="left" src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-<h4>👋 Hi, I'm MD SUMON SIDDIKI, a passionate web developer specializing in JavaScript, React, MongoDB, Node.js, and Express.js. I love building dynamic and responsive web applications, and I'm always eager to learn and grow in the field of full-stack development. Check out my repositories to see my latest projects!<h4>
+</p>
+<h4 align="left">👋 Hi, I'm MD SUMON SIDDIKI, a passionate web developer specializing in JavaScript, React, MongoDB, Node.js, and Express.js. I love building dynamic and responsive web applications, and I'm always eager to learn and grow in the field of full-stack development. Check out my repositories to see my latest projects!<h4>
+
+
 
