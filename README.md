@@ -13,7 +13,7 @@
 <p align="center">
  
 <a href="https://github.com/mdsumonsiddiki"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=MD+SUMON+SIDDIKI;Web+Developer+%7C+React+;JavaScript+%7C+Tailwind+CSS+%7C+Node.js+%7C+Express.js+%7C+MongoDB; ; " alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=MD+SUMON+SIDDIKI;Web+Developer+%7C+MERN+;React+%9C+JavaScript+%7C+Tailwind+CSS+%7C+Node.js+%7C+Express.js+%7C+MongoDB; ; " alt="Typing SVG" />
 </a>
 
 <br/>
