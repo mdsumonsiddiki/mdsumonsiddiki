@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+<a href="https://github.com/mdsumonsiddiki"> 
+ <img align="center" src="https://github.com/mdsumonsiddiki/mdsumonsiddiki/blob/main/banner.png" width="100%">    
+</a>
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
